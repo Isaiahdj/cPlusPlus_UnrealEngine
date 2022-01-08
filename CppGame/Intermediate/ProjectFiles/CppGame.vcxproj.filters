@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\CppGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{EF47BBD8-463C-42F4-B02F-BCD5A4B7BFBC}</UniqueIdentifier>
+      <UniqueIdentifier>{577A959B-A516-4EE3-992B-31B96D9498F0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CppGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{9AE24AD7-EA47-4E2D-AE66-6FE7C11409DA}</UniqueIdentifier>
+      <UniqueIdentifier>{4FB5078A-8848-46AD-95F7-9D85BFE37BA6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\CppGame">
-      <UniqueIdentifier>{2D370084-806B-436E-8584-D983BB28DB16}</UniqueIdentifier>
+      <UniqueIdentifier>{1B09D07F-2339-4510-9C07-0AA5370B9AC3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CppGame\CppGame.Build.cs">
       <Filter>Source\CppGame</Filter>
@@ -39,6 +39,12 @@
       <Filter>Source\CppGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\CppGame\CppGame.h">
+      <Filter>Source\CppGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CppGame\EndGameScreen.cpp">
+      <Filter>Source\CppGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppGame\EndGameScreen.h">
       <Filter>Source\CppGame</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\CppGame\MainMenu.cpp">

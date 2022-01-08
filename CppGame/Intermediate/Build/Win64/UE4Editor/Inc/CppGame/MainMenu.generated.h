@@ -13,18 +13,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CPPGAME_MainMenu_generated_h
 
-#define CppGame_Source_CppGame_MainMenu_h_17_SPARSE_DATA
-#define CppGame_Source_CppGame_MainMenu_h_17_RPC_WRAPPERS \
+#define CppGame_Source_CppGame_MainMenu_h_12_SPARSE_DATA
+#define CppGame_Source_CppGame_MainMenu_h_12_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execStartButtonClicked);
 
 
-#define CppGame_Source_CppGame_MainMenu_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+#define CppGame_Source_CppGame_MainMenu_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execStartButtonClicked);
 
 
-#define CppGame_Source_CppGame_MainMenu_h_17_INCLASS_NO_PURE_DECLS \
+#define CppGame_Source_CppGame_MainMenu_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMainMenu(); \
 	friend struct Z_Construct_UClass_UMainMenu_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UMainMenu)
 
 
-#define CppGame_Source_CppGame_MainMenu_h_17_INCLASS \
+#define CppGame_Source_CppGame_MainMenu_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesUMainMenu(); \
 	friend struct Z_Construct_UClass_UMainMenu_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(UMainMenu)
 
 
-#define CppGame_Source_CppGame_MainMenu_h_17_STANDARD_CONSTRUCTORS \
+#define CppGame_Source_CppGame_MainMenu_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMainMenu(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMainMenu) \
@@ -55,7 +55,7 @@ private: \
 public:
 
 
-#define CppGame_Source_CppGame_MainMenu_h_17_ENHANCED_CONSTRUCTORS \
+#define CppGame_Source_CppGame_MainMenu_h_12_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UMainMenu(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -68,31 +68,31 @@ public: \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMainMenu)
 
 
-#define CppGame_Source_CppGame_MainMenu_h_17_PRIVATE_PROPERTY_OFFSET \
+#define CppGame_Source_CppGame_MainMenu_h_12_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__StartGame() { return STRUCT_OFFSET(UMainMenu, StartGame); }
 
 
-#define CppGame_Source_CppGame_MainMenu_h_14_PROLOG
-#define CppGame_Source_CppGame_MainMenu_h_17_GENERATED_BODY_LEGACY \
+#define CppGame_Source_CppGame_MainMenu_h_9_PROLOG
+#define CppGame_Source_CppGame_MainMenu_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	CppGame_Source_CppGame_MainMenu_h_17_PRIVATE_PROPERTY_OFFSET \
-	CppGame_Source_CppGame_MainMenu_h_17_SPARSE_DATA \
-	CppGame_Source_CppGame_MainMenu_h_17_RPC_WRAPPERS \
-	CppGame_Source_CppGame_MainMenu_h_17_INCLASS \
-	CppGame_Source_CppGame_MainMenu_h_17_STANDARD_CONSTRUCTORS \
+	CppGame_Source_CppGame_MainMenu_h_12_PRIVATE_PROPERTY_OFFSET \
+	CppGame_Source_CppGame_MainMenu_h_12_SPARSE_DATA \
+	CppGame_Source_CppGame_MainMenu_h_12_RPC_WRAPPERS \
+	CppGame_Source_CppGame_MainMenu_h_12_INCLASS \
+	CppGame_Source_CppGame_MainMenu_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define CppGame_Source_CppGame_MainMenu_h_17_GENERATED_BODY \
+#define CppGame_Source_CppGame_MainMenu_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	CppGame_Source_CppGame_MainMenu_h_17_PRIVATE_PROPERTY_OFFSET \
-	CppGame_Source_CppGame_MainMenu_h_17_SPARSE_DATA \
-	CppGame_Source_CppGame_MainMenu_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	CppGame_Source_CppGame_MainMenu_h_17_INCLASS_NO_PURE_DECLS \
-	CppGame_Source_CppGame_MainMenu_h_17_ENHANCED_CONSTRUCTORS \
+	CppGame_Source_CppGame_MainMenu_h_12_PRIVATE_PROPERTY_OFFSET \
+	CppGame_Source_CppGame_MainMenu_h_12_SPARSE_DATA \
+	CppGame_Source_CppGame_MainMenu_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	CppGame_Source_CppGame_MainMenu_h_12_INCLASS_NO_PURE_DECLS \
+	CppGame_Source_CppGame_MainMenu_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

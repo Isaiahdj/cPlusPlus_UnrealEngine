@@ -84,7 +84,6 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UMainMenu_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "IncludePath", "MainMenu.h" },
 		{ "ModuleRelativePath", "MainMenu.h" },
 	};
@@ -127,7 +126,7 @@ void EmptyLinkFunctionForGeneratedCodeMainMenu() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UMainMenu, 1383629235);
+	IMPLEMENT_CLASS(UMainMenu, 946676218);
 	template<> CPPGAME_API UClass* StaticClass<UMainMenu>()
 	{
 		return UMainMenu::StaticClass();
