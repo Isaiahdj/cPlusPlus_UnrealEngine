@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CppGame",
+			"Path": "C:\\Users\\15038\\Documents\\GitHub\\cPlusPlus_UnrealEngine\\CppGame\\Source\\CppGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CppGameEditor",
+			"Path": "C:\\Users\\15038\\Documents\\GitHub\\cPlusPlus_UnrealEngine\\CppGame\\Source\\CppGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

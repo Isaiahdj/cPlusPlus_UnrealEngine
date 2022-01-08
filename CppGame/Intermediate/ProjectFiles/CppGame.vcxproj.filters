@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CppGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EF47BBD8-463C-42F4-B02F-BCD5A4B7BFBC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CppGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CppGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9AE24AD7-EA47-4E2D-AE66-6FE7C11409DA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CppGame">
+      <UniqueIdentifier>{2D370084-806B-436E-8584-D983BB28DB16}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CppGame\CppGame.Build.cs">
+      <Filter>Source\CppGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CppGame\CppGame.cpp">
+      <Filter>Source\CppGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppGame\CppGame.h">
+      <Filter>Source\CppGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CppGame\MainMenu.cpp">
+      <Filter>Source\CppGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CppGame\MainMenu.h">
+      <Filter>Source\CppGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:\Users\15038\Documents\GitHub\cPlusPlus_UnrealEngine\CppGame\Intermediate\Build\Win64\UE4Editor\Development\CppGame\Definitions.CppGame.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

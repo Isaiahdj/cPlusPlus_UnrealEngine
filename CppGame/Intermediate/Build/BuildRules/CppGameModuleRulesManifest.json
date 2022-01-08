@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\15038\\Documents\\GitHub\\cPlusPlus_UnrealEngine\\CppGame\\Source\\CppGame\\CppGame.Build.cs",
+		"C:\\Users\\15038\\Documents\\GitHub\\cPlusPlus_UnrealEngine\\CppGame\\Source\\CppGame.Target.cs",
+		"C:\\Users\\15038\\Documents\\GitHub\\cPlusPlus_UnrealEngine\\CppGame\\Source\\CppGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
